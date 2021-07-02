@@ -1,2 +1,2 @@
-# biref
-Identifying the birefringence of materials from colour analysis
+
+Returns the thickness of a thin liquid crystal film at a location as a function of color data
