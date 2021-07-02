@@ -1,2 +1,2 @@
-# biref
-Identifying the birefringence of materials from colour analysis
+
+Determines the thickness of ultra-thin smectic films using reflected light microscopy color data. 
